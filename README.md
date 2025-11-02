@@ -14,7 +14,8 @@ Follow these steps to deploy this Notes App on **Netlify** using **GitHub**:
      - `script.js`
 
 2. **Deploy on Netlify**  
-   - Visit [https://www.netlify.com](https://www.netlify.com) in your browser.  
+   - Visit [https://www.netlify.com](https://www.netlify.com) in your browser.
+   - Signup with your GitHub account.
    - Click on **"Add new site" → "Import an existing project"**.  
    - Choose **GitHub** as your source.  
    - Select your **Notes-app** repository.  
